@@ -18,11 +18,15 @@
 <div align="center">
 
 <!-- Title -->
-<h1 align="center"> Hey there, I'm Alex </h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=30&duration=3000&pause=2000&color=FF69B4&center=true&width=435&lines=hey+there%2C+i'm+alex!;welcome+to+my+profile!)](https://git.io/typing-svg)
+
+</h1>
 
 <!-- Typing SVG -->
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=30&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,6 +45,8 @@
      ABOUT ME
 ============================================================ -->
 <h2 align="center"> About Me</h2>
+
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=AboutMe&title=Alex+Liu&desc=Hallo&theme=dark)](https://github.com/your-username/your-repo)
 
 <table align="center" width="100%">
   <tr>
