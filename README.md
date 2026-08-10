@@ -112,7 +112,7 @@ insert bio here
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/dragonfayre">dragonfayre</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/dragonfayre">dragonfayre</a></i></
 
 
 
