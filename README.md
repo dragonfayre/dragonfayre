@@ -94,16 +94,16 @@
   <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FFF0F5&text_color=FFFFFF&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FFF0F5&text_color=FFFFFF&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
 
-<p align="left">
 
-```  Hey there! My name is Alex. I press buttons on a keyboard sometimes. 
+
+```  Hey there! My name is Alex. I press buttons on a keyboard sometimes. ```
+
+<p align="left">
 
 > I'm currently working on **Not dying**  
 > I'm currently learning **Cybersecurity**
 > Pronouns: **he/him**  
 > Fun fact: **i write music for fun**
-
-```
 
 </p>
 
@@ -117,11 +117,11 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/alexanderkangshao" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/alexanderkangshao" target="_blank" style="text-decoration: none; outline: none; -webkit-tap-highlight-color: transparent;">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
   </a>
-  <a href="mailto:connectwithalex@outlook.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:connectwithalex@outlook.com" target="_blank" style="text-decoration: none; outline: none; -webkit-tap-highlight-color: transparent;">
+    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" border="0"/>
   </a>
 </p>
 <br/>
