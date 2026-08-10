@@ -56,7 +56,92 @@
       <p>
         🌸 &nbsp;<b>Who I am:</b> A passionate developer who loves turning ideas into elegant, functional code.<br/><br/>
         💻 &nbsp;<b>What I do:</b> Building clean, modern web experiences with a love for detail and design.<br/><br/>
-        🌱 &nbsp;<b>Currently
+        🌱 &nbsp;<b>Currently learning:</b> Exploring new frameworks, AI tools, and creative dev workflows.<br/><br/>
+        🎯 &nbsp;<b>Goal:</b> Crafting projects that are as beautiful as they are functional.<br/><br/>
+        🎨 &nbsp;<b>Fun fact:</b> I believe great code deserves a great aesthetic.
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/dragonfayre/dragonfayre/main/assets/profile.gif" width="90%" alt="profile visual" style="border-radius: 20px;"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============================================================
+     TECH STACK
+============================================================ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,tailwind,figma,git,github,vscode,mysql,mongodb&theme=light" alt="tech stack"/>
+</div>
+
+<br/>
+
+<!-- ============================================================
+     GITHUB STATS
+============================================================ -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonfayre&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=1B1023&bg_color=FFF0F5" alt="github stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonfayre&hide_border=true&background=FFF0F5&stroke=FF69B4&ring=EF93C4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=1B1023&dates=1B1023&currStreakNum=1B1023&sideNums=1B1023" alt="github streak" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonfayre&theme=react-dark&hide_border=true&bg_color=1B1023&color=FF69B4&line=EF93C4&point=F8BBD0" alt="activity graph" width="97%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonfayre&layout=compact&hide_border=true&title_color=FF69B4&text_color=1B1023&bg_color=FFF0F5" alt="top languages"/>
+</div>
+
+<br/>
+
+<!-- ============================================================
+     CONNECT WITH ME
+============================================================ -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dragonfayre" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/dragonfayre" target="_blank">
+    <img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/dragonfayre" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@dragonfayre" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@dragonfayre" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:dragonfayre@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1B1023&height=150&section=footer&fontColor=FF69B4">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer&fontColor=FFF0F5">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer&fontColor=FFF0F5" alt="footer" width="100%"/>
+</picture>
+
+<p align="center"><i>✨ Thanks for visiting — let's build something beautiful together! ✨</i></p>
+
+</div>
 
 <!--
 **dragonfayre/dragonfayre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
