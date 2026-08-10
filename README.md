@@ -40,9 +40,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/alexanderkangshao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -51,7 +49,6 @@
   </a>
 </p>
 
-</div>
 
 <br/>
 
