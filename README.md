@@ -104,8 +104,8 @@ insert bio here
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dragonfayre&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=dragonfayre&layout=compact&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dragonfayre&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&body_color=FFF0F5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=dragonfayre&layout=compact&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&font_color=FFF0F5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
