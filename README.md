@@ -20,13 +20,13 @@
 <!-- Title -->
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=30&duration=3000&pause=2000&color=FF69B4&center=true&width=435&lines=hey+there%2C+i'm+alex!;welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=60&duration=3000&pause=2000&color=FF69B4&center=true&width=435&lines=hey+there%2C+i'm+alex!;welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </h1>
 
 <!-- Typing SVG -->
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=30&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=50&duration=3000&pause=1000&color=FF69B4&center=true&width=600&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
 
 <br/>
 
