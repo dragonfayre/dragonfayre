@@ -82,22 +82,8 @@ insert bio here
 
 
 <div align="center">
-
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true">
-        <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&border_color=FFF0F5" alt="GitHub Stats" width="440"/>
-      </a>
-    </td>
-    <td align="center" valign="top" style="border: none;">
-      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&border_color=FFF0F5" alt="Top Languages" width="320"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
 </div>
 
 
