@@ -40,6 +40,17 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alexanderkangshao" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:connectwithalex@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
 
 <br/>
@@ -56,13 +67,13 @@
   ============================================================
 -->
 
-<!-- Title -->
+<!-- Title 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=50&duration=3000&pause=2000&color=FF69B4&center=true&width=900&height=200&lines=hey+there%2C+i'm+alex!;welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=50&duration=3000&pause=2000&color=FF69B4&center=true&width=900&height=200&lines=hey+there%2C+i'm+alex!;welcome+to+my+profile!)]
 
 </h1>
-
+-->
 
 
 
@@ -92,14 +103,6 @@ insert bio here
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **i write music for fun**
 
-
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexanderkangshao/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:connectwithalex@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ### 📊 GitHub Stats
 
