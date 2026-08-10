@@ -65,10 +65,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=475&height=44&lines=looking%20for%20internships%20(pls);(seriously)" alt="Typing headlines" />
-</p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -129,6 +125,10 @@ Fun fact: **i write music for fun**
   </a>
 </p>
 <br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=475&height=44&lines=looking%20for%20internships%20(pls);(seriously)" alt="Typing headlines" />
+</p>
 
 <p align="center"><i>✨ Connect with me :) connectwithalex.onrender.com ✨</i></p>
 
