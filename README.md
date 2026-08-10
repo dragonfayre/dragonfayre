@@ -67,7 +67,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,figma,git,github,vscode,sql,mongodb&theme=light" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,figma,git,github,vscode,mongodb&theme=light" alt="tech stack"/>
 </div>
 
 <br/>
@@ -95,7 +95,7 @@
 <!-- ============================================================
      CONNECT WITH ME
 ============================================================ -->
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/alexanderkangshao" target="_blank">
