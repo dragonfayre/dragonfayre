@@ -21,7 +21,7 @@
 <h1 align="center"> Hey there, I'm Alex </h1>
 
 <!-- Typing SVG -->
-<a href="#">
+
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&duration=3000&pause=1000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
 
 <br/>
@@ -77,10 +77,9 @@
 ============================================================ -->
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
 
-</div>
 
 <br/>
 
