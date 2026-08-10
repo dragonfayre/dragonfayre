@@ -70,6 +70,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=475&height=44&lines=looking%20for%20internships%20(pls);(seriously)" alt="Typing headlines" />
 </p>
 
+
+
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
+   
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
+ 
+</div>
+<br/>
+
+
 insert bio here
 
 🔭 &nbsp;I'm currently working on **a**  
@@ -81,47 +94,13 @@ insert bio here
 ⚡ &nbsp;Fun fact: **i write music for fun**
 
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
-</div>
-
-
-
-
-
-<table align="center" width="100%">
-  <tr>
-    <td width="65%" valign="middle">
-      <p>
-        🌸 &nbsp;<b>Who I am:</b>  A passionate developer who loves turning ideas into elegant, functional code.<br/><br/>
-        💻 &nbsp;<b>What I do:</b> Building clean, modern web experiences with a love for detail and design.<br/><br/>
-        🌱 &nbsp;<b>Currently learning:</b> Exploring new frameworks, AI tools, and creative dev workflows.<br/><br/>
-        🎯 &nbsp;<b>Goal:</b> Crafting projects that are as beautiful as they are functional.<br/><br/>
-        🎨 &nbsp;<b>Fun fact:</b> I believe great code deserves a great aesthetic.
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/dragonfayre/dragonfayre/main/assets/profile.gif" width="90%" alt="profile visual" style="border-radius: 20px;"/>
-    </td>
-  </tr>
-</table>
-
-
 
 <br/>
 
 <!-- ============================================================
      GITHUB STATS
 ============================================================ -->
-<h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
- 
-</div>
-<br/>
 
 
 <br/>
