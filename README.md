@@ -46,7 +46,7 @@
 ============================================================ -->
 <h2 align="center"> About Me</h2>
 
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=AboutMe&title=Alex+Liu&desc=Hallo&theme=dark)](https://github.com/your-username/your-repo)
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=About+Me&title=Alex+Liu&desc=I+teach+people&theme=dark)](https://github.com/dragonfayre)
 
 <table align="center" width="100%">
   <tr>
