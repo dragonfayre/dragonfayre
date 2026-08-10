@@ -8,7 +8,7 @@
 <div align="center">
 <!-- Typing SVG -->
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&duration=3000&pause=1000&color=FF69B4&center=true&width=800&height=100&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&duration=3000&pause=1000&color=FF69B4&center=true&width=800&height=150&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
 
 <!-- Badges -->
 <p align="center">
