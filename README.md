@@ -56,6 +56,7 @@
 <!-- ============================================================
      ABOUT ME
 ============================================================ -->
+
 ---
 
 <p align="center">
@@ -93,15 +94,17 @@
   <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=FFFFFF&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=FFFFFF&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
 
-  insert bio here
 
-🔭 &nbsp;I'm currently working on **a**  
-🌱 &nbsp;I'm currently learning **b**  
-👯 &nbsp;I'm looking to collaborate on **c**  
-🤔 &nbsp;I'm looking for help with **d**  
-💬 &nbsp;Ask me about **e**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **i write music for fun**
+
+>  insert bio here
+
+> &nbsp;I'm currently working on **a**  
+> &nbsp;I'm currently learning **b**  
+> &nbsp;I'm looking to collaborate on **c**  
+> &nbsp;I'm looking for help with **d**  
+> &nbsp;Ask me about **e**  
+> &nbsp;Pronouns: **he/him**  
+> &nbsp;Fun fact: **i write music for fun**
    
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
  
