@@ -3,6 +3,12 @@
    <img alt="Logo for Dragonfayre" src="art/header-light.png">
 </picture>
 
+<br/>
+
+<div align="center">
+<!-- Typing SVG -->
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&duration=3000&pause=1000&color=FF69B4&center=true&width=800&height=100&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
 
 <!-- Badges -->
 <p align="center">
@@ -31,9 +37,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<!-- Typing SVG -->
+</div>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=40&duration=3000&pause=1000&color=FF69B4&center=true&width=800&height=100&lines=~+Casual+Academic+~;~+Full+Stack+Developer+~;~+UNSW+B.+Cybersecurity+~)](https://git.io/typing-svg)
+
+
+
 
 <br/>
 
