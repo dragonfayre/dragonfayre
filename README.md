@@ -63,6 +63,7 @@
 <!-- ============================================================
      ABOUT ME
 ============================================================ -->
+---
 
 <p align="center">
   <a href="https://github.com/dragonfayre">
@@ -74,44 +75,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=475&height=44&lines=looking%20for%20internships%20(pls);(seriously)" alt="Typing headlines" />
 </p>
 
-
-
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
-   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
- 
-</div>
-<br/>
-
-
-insert bio here
-
-🔭 &nbsp;I'm currently working on **a**  
-🌱 &nbsp;I'm currently learning **b**  
-👯 &nbsp;I'm looking to collaborate on **c**  
-🤔 &nbsp;I'm looking for help with **d**  
-💬 &nbsp;Ask me about **e**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **i write music for fun**
-
-
-
-<br/>
-
-<!-- ============================================================
-     GITHUB STATS
-============================================================ -->
-
-
-
-<br/>
-
-<!-- ============================================================
-     CONNECT WITH ME
-============================================================ -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -132,15 +95,53 @@ insert bio here
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+
+insert bio here
+
+🔭 &nbsp;I'm currently working on **a**  
+🌱 &nbsp;I'm currently learning **b**  
+👯 &nbsp;I'm looking to collaborate on **c**  
+🤔 &nbsp;I'm looking for help with **d**  
+💬 &nbsp;Ask me about **e**  
+😄 &nbsp;Pronouns: **he/him**  
+⚡ &nbsp;Fun fact: **i write music for fun**
+
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
+   
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
+ 
+</div>
+<br/>
+
+
+
+
+<br/>
+
+<!-- ============================================================
+     GITHUB STATS
+============================================================ -->
+
+
+
+<br/>
+
+<!-- ============================================================
+     CONNECT WITH ME
+============================================================ -->
+
+
 <p align="center">
-  <a href="https://linkedin.com/in/alexanderkangshao" target="_blank">
+  <a href="https://linkedin.com/in/alexanderkangshao" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:connectwithalex@outlook.com" target="_blank">
+  <a href="mailto:connectwithalex@outlook.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 <br/>
 
 <p align="center"><i>✨ Connect with me :) connectwithalex.onrender.com ✨</i></p>
