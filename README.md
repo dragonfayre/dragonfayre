@@ -100,10 +100,10 @@
 
 <p align="left">
 
-> I'm currently working on **Not dying**  
-> I'm currently learning **Cybersecurity**
-> Pronouns: **he/him**  
-> Fun fact: **i write music for fun**
+I'm currently working on **Not dying**
+I'm currently learning **Cybersecurity**
+Pronouns: **he/him**
+Fun fact: **i write music for fun**
 
 </p>
 
