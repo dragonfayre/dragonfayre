@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=475&height=44&lines=looking%20for%20internships%20(pls);(seriously)" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=F8BBD0&center=true&vCenter=true&width=475&height=44&lines=looking%20for%20internships%20(pls);(seriously)" alt="Typing headlines" />
 </p>
 
 insert bio here
@@ -104,8 +104,8 @@ insert bio here
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dragonfayre&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=dragonfayre&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dragonfayre&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=dragonfayre&layout=compact&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
