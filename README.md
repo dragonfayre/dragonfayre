@@ -96,12 +96,14 @@
 
 
 
->  Hey there! My name is Alex. I press buttons on a keyboard sometimes.
+```  Hey there! My name is Alex. I press buttons on a keyboard sometimes. ```
 
- &nbsp;I'm currently working on **Not dying**  
- &nbsp;I'm currently learning **Cybersecurity**
- &nbsp;Pronouns: **he/him**  
- &nbsp;Fun fact: **i write music for fun**
+> I'm currently working on **Not dying**  
+> I'm currently learning **Cybersecurity**
+> Pronouns: **he/him**  
+> Fun fact: **i write music for fun**
+
+---
    
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dragonfayre&theme=kanagawa-paper&timezone=AEST&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF69B4&ring=FFF0F5&background=45%2C1B1023%2C422756&dates=FF69B4&sideLabels=FFF0F5&stroke=FF69B4&currStreakNum=F8BBD0&sideNums=FFF0F5&currStreakLabel=F8BBD0&border=FFF0F5)](https://git.io/streak-stats)
  
