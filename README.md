@@ -101,12 +101,25 @@ insert bio here
 ⚡ &nbsp;Fun fact: **i write music for fun**
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&text_color=F8BBD0)
+<div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&text_color=F8BBD0)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true">
+        <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&icon_color=EF93C4&border_color=FFF0F5" alt="GitHub Stats" width="440"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FF69B4&text_color=F8BBD0&border_color=FFF0F5" alt="Top Languages" width="320"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/dragonfayre">dragonfayre</a></i></
+</div>
+
 
 
 
