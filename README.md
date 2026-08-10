@@ -100,9 +100,9 @@
 
 <p align="left">
 
-I'm currently working on **Not dying**
+I'm currently working on: **Not dying**
 <br/>
-I'm currently learning **Cybersecurity**
+I'm currently learning: **Cybersecurity**
 <br/>
 Pronouns: **he/him**
 <br/>
