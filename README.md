@@ -1,4 +1,8 @@
 ## Hi there 👋
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Dragonfayre" src="art/header-light.png">
+</picture>
 
 <!--
 **dragonfayre/dragonfayre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
