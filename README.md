@@ -111,7 +111,7 @@ insert bio here
   <tr>
     <td width="65%" valign="middle">
       <p>
-        🌸 &nbsp;<b>Who I am:</b> A passionate developer who loves turning ideas into elegant, functional code.<br/><br/>
+        🌸 &nbsp;<b>Who I am:</b>  A passionate developer who loves turning ideas into elegant, functional code.<br/><br/>
         💻 &nbsp;<b>What I do:</b> Building clean, modern web experiences with a love for detail and design.<br/><br/>
         🌱 &nbsp;<b>Currently learning:</b> Exploring new frameworks, AI tools, and creative dev workflows.<br/><br/>
         🎯 &nbsp;<b>Goal:</b> Crafting projects that are as beautiful as they are functional.<br/><br/>
