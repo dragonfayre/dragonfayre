@@ -44,11 +44,10 @@
 <!-- ============================================================
      ABOUT ME
 ============================================================ -->
-<h2 align="center"> About Me</h2>
 
 <p align="center">
   <a href="https://github.com/dragonfayre">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=About%20Me" alt="About Me" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&fontSize=54&height=90&width=420&text=About%20Me" alt="About Me" />
   </a>
 </p>
 
