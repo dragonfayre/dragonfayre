@@ -94,14 +94,18 @@
   <img src="https://github-stats-extended.vercel.app/api?username=dragonfayre&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent&title_color=FFF0F5&text_color=FFFFFF&icon_color=EF93C4&hide_border=true&border_color=FFF0F5" alt="GitHub Stats" width="440" valign="top"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dragonfayre&layout=compact&langs_count=8&hide_values=true&theme=transparent&title_color=FFF0F5&text_color=FFFFFF&hide_border=true&border_color=FFF0F5" alt="Top Languages" width="320" valign="top"/>
 
+<p align="left">
 
-
-```  Hey there! My name is Alex. I press buttons on a keyboard sometimes. ```
+```  Hey there! My name is Alex. I press buttons on a keyboard sometimes. 
 
 > I'm currently working on **Not dying**  
 > I'm currently learning **Cybersecurity**
 > Pronouns: **he/him**  
 > Fun fact: **i write music for fun**
+
+```
+
+</p>
 
 ---
    
