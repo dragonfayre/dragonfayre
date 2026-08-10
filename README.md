@@ -3,6 +3,8 @@
    <img alt="Logo for Dragonfayre" src="art/header-light.png">
 </picture>
 
+---
+
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,figma,git,github,vscode,mongodb&theme=light" alt="tech stack"/>
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/github/followers/dragonfayre?label=Followers&style=for-the-badge&color=FF69B4&labelColor=1B1023" alt="followers"/>
   <img src="https://img.shields.io/github/stars/dragonfayre?label=Stars&style=for-the-badge&color=EF93C4&labelColor=1B1023" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=dragonfayre&label=Profile+Views&style=for-the-badge&color=F8BBD0&labelColor=1B1023" alt="views"/>
-    || 
+    <br/> 
    <a href="https://linkedin.com/in/alexanderkangshao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
