@@ -6,7 +6,7 @@
 ---
 
 <br/>
-<div align="center">
+<div align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,figma,git,github,vscode,mongodb&theme=light" alt="tech stack"/>
 </div>
 <br/>
